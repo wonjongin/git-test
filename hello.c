@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(void){
-ptintf(hello);
+    printf("hello");
 }
